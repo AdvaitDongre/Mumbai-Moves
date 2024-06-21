@@ -1,4 +1,3 @@
-MumbaiMoves
 **Project Title: MumbaiMoves.com - Transforming Public Transportation with AI**
 
 **Objective:**
